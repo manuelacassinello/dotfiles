@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mrac.in@icloud.com
+	name = Manuela Rodriguez-Acosta Cassinello
